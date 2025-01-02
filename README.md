@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning
-📫 How to reach me apply.kh.parveg.hossain@gmail.com
+ 📫 How to reach me **parevgkh64@gmail.com**
 
 
 
