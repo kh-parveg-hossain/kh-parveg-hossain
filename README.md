@@ -1,7 +1,7 @@
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://media.licdn.com/dms/image/v2/D5616AQHFt6FSxcigQg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723992784157?e=1741219200&v=beta&t=2kwVANLZ9TdxfVMUzg6upAc6JZjAi5wuNlIl3FID2Po)" alt=”my banner”>
+<img width=”200" height=”200" src=”https://media.licdn.com/dms/image/v2/D5616AQHFt6FSxcigQg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723992784157?e=1741219200&v=beta&t=2kwVANLZ9TdxfVMUzg6upAc6JZjAi5wuNlIl3FID2Po" alt=”my banner”>
 
 </p>
 
