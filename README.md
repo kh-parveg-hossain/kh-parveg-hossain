@@ -1,5 +1,10 @@
+
+
+
 # 💫 About Me:
-I AM Learning
+🌱 I’m currently learning
+📫 How to reach me apply.kh.parveg.hossain@gmail.com
+
 
 
 ## 🌐 Socials:
